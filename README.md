@@ -162,5 +162,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 
 </div>
 
-<!-- ====== FOOTER ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:5D3FD3,100:8A2BE2&height=120&section=footer&text=Built%20with%20%E2%9D%A4%20and%20a%20lot%20of%20AI&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
+<!-- ====== CUSTOM FOOTER (hand-crafted SVG — Mumbai skyline + Sea Link) ====== -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/mrradarsh/mrradarsh/main/assets/footer.svg" alt="Crafted with code and chai — Adarsh Dubey, Mumbai" />
+</div>
