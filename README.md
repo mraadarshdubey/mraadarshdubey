@@ -15,6 +15,17 @@
 <a href="https://github.com/mraadarshdubey?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI_×_Web-5D3FD3?style=for-the-badge&labelColor=1c1c2b&logo=openai&logoColor=white" alt="focus" /></a>
 <a href="https://github.com/mraadarshdubey?tab=repositories"><img src="https://img.shields.io/badge/Open_to-Freelance_%26_Collab-2ecc71?style=for-the-badge&labelColor=1c1c2b&logo=handshake&logoColor=white" alt="open to work" /></a>
 
+<br><br>
+
+<!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
+<!-- START:LIVE -->
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 29°C, clear skies &nbsp;·&nbsp; 🕐 12:35 AM IST
+<!-- END:LIVE -->
+
+<!-- START:COUNTERS -->
+`⏳ 1,296 days shipping` &nbsp; `☕ 2,592 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+<!-- END:COUNTERS -->
+
 </div>
 
 <br>
@@ -189,10 +200,28 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <a href="mailto:mraadarshdubey@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+<a href="https://github.com/mraadarshdubey" target="_blank">
+  <img src="https://img.shields.io/badge/🤖_Ask_My_AI_Twin-8A2BE2?style=for-the-badge&labelColor=1c1c2b" alt="ask my ai twin" />
+</a>
 
 <br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="quote" />
+
+</div>
+
+<br>
+
+<!-- ====== AI THOUGHT OF THE DAY (self-writing) ====== -->
+## 💭 Today's AI Thought
+
+<div align="center">
+
+<!-- START:AI_THOUGHT -->
+> *"Ship the model, then ship the guardrails. Never the other way round."*
+>
+> <sub>💡 curated · refreshes daily</sub>
+<!-- END:AI_THOUGHT -->
 
 </div>
 

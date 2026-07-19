@@ -39,7 +39,7 @@
   <rect width="900" height="230" rx="16" fill="url(#skyGlow)"/>
 
   <!-- ===== DYNAMIC WEATHER SKY (auto-updated from live Mumbai weather) ===== -->
-  <circle cx="800" cy="52" r="15" fill="#EDEFF7"/><circle cx="795" cy="48" r="15" fill="#0D0D1A"/><circle cx="150" cy="44" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle><circle cx="260" cy="34" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.9s" repeatCount="indefinite"/></circle><circle cx="480" cy="40" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="610" cy="30" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite"/></circle><circle cx="700" cy="60" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle><circle cx="380" cy="66" r="1.2" fill="#F5F5F0"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+  {{WEATHER_SKY}}
 
   <!-- twinkling stars -->
   <g fill="#F5F5F0">
@@ -124,7 +124,7 @@
   </g>
 
   <!-- ===== DYNAMIC WEATHER FOREGROUND (rain / clouds / etc.) ===== -->
-  
+  {{WEATHER_FG}}
 
   <!-- ===== heartbeat pulse line (always shipping) ===== -->
   <g>
@@ -137,7 +137,7 @@
 
   <!-- live weather label -->
   <g font-family="'Segoe UI',system-ui,sans-serif">
-    <text x="30" y="26" font-size="11" fill="#8FB8FF" letter-spacing="1">MUMBAI  ·  🌙 29°C  ·  CLEAR SKIES  ·  LIVE</text>
+    <text x="30" y="26" font-size="11" fill="#8FB8FF" letter-spacing="1">{{WEATHER_LABEL}}</text>
   </g>
 
   <!-- ===== sign-off text ===== -->
