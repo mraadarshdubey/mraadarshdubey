@@ -19,7 +19,7 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ⛈️ 26°C, thunderstorm &nbsp;·&nbsp; 🕐 09:13 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌧️ 26°C, rain over Mumbai &nbsp;·&nbsp; 🕐 10:50 PM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
