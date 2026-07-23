@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌧️ 26°C, rain over Mumbai &nbsp;·&nbsp; 🕐 11:42 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ☁️ 28°C, cloudy skies &nbsp;·&nbsp; 🕐 01:42 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,299 days shipping` &nbsp; `☕ 2,598 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,300 days shipping` &nbsp; `☕ 2,600 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"RAG isn't magic — it's just giving the model a good memory."*
+> *"Every hallucination is a missing evaluation."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
