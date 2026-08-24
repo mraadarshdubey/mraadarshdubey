@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ☁️ 27°C, cloudy skies &nbsp;·&nbsp; 🕐 11:01 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌧️ 27°C, rain over Mumbai &nbsp;·&nbsp; 🕐 12:10 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,331 days shipping` &nbsp; `☕ 2,662 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,332 days shipping` &nbsp; `☕ 2,664 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"A chatbot that says 'I don't know' is worth more than one that lies."*
+> *"Prompt engineering is temporary; system design is forever."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
