@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ☁️ 26°C, cloudy skies &nbsp;·&nbsp; 🕐 10:04 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌧️ 26°C, rain over Mumbai &nbsp;·&nbsp; 🕐 12:18 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,343 days shipping` &nbsp; `☕ 2,686 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,344 days shipping` &nbsp; `☕ 2,688 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Guard the output, not just the input."*
+> *"AI writes the code; you own the consequences. Review everything."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
