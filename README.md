@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 30°C, clear skies &nbsp;·&nbsp; 🕐 11:33 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ☁️ 29°C, cloudy skies &nbsp;·&nbsp; 🕐 04:33 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,377 days shipping` &nbsp; `☕ 2,754 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,378 days shipping` &nbsp; `☕ 2,756 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Small models fine-tuned beat big models guessing."*
+> *"The interface is the moat, not the weights."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
