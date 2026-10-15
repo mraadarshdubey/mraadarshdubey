@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 30°C, clear skies &nbsp;·&nbsp; 🕐 11:32 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; ☁️ 29°C, cloudy skies &nbsp;·&nbsp; 🕐 03:28 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,383 days shipping` &nbsp; `☕ 2,766 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,384 days shipping` &nbsp; `☕ 2,768 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Vector search finds neighbours — you still decide who's family."*
+> *"The future isn't AI replacing devs. It's devs who wield AI replacing those who don't."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
