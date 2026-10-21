@@ -19,7 +19,7 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> ☀️ **Good morning from Mumbai** &nbsp;·&nbsp; ☀️ 28°C, clear skies &nbsp;·&nbsp; 🕐 06:50 AM IST
+> 🌤️ **Good afternoon from Mumbai** &nbsp;·&nbsp; ☀️ 36°C, clear skies &nbsp;·&nbsp; 🕐 12:39 PM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
