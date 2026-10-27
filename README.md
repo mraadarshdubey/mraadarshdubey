@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌆 **Good evening from Mumbai** &nbsp;·&nbsp; 🌙 31°C, clear skies &nbsp;·&nbsp; 🕐 07:33 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 28°C, clear skies &nbsp;·&nbsp; 🕐 01:21 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,395 days shipping` &nbsp; `☕ 2,790 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,396 days shipping` &nbsp; `☕ 2,792 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"The best prompt is the one you didn't need — good UX makes AI invisible."*
+> *"Ship the model, then ship the guardrails. Never the other way round."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
