@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 27°C, clear skies &nbsp;·&nbsp; 🕐 09:28 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 24°C, clear skies &nbsp;·&nbsp; 🕐 03:10 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,421 days shipping` &nbsp; `☕ 2,842 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,422 days shipping` &nbsp; `☕ 2,844 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Ship the model, then ship the guardrails. Never the other way round."*
+> *"An agent is only as smart as the tools you hand it."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
