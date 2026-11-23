@@ -19,7 +19,7 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 24°C, clear skies &nbsp;·&nbsp; 🕐 03:10 AM IST
+> ☀️ **Good morning from Mumbai** &nbsp;·&nbsp; ☀️ 24°C, clear skies &nbsp;·&nbsp; 🕐 07:49 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
