@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌤️ **Good afternoon from Mumbai** &nbsp;·&nbsp; ☀️ 34°C, clear skies &nbsp;·&nbsp; 🕐 02:15 PM IST
+> 🌙 **Burning the midnight oil** &nbsp;·&nbsp; 🌙 27°C, clear skies &nbsp;·&nbsp; 🕐 01:28 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,423 days shipping` &nbsp; `☕ 2,846 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,424 days shipping` &nbsp; `☕ 2,848 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Latency is a feature. Users forgive wrong; they rarely forgive slow."*
+> *"RAG isn't magic — it's just giving the model a good memory."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
