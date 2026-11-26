@@ -19,11 +19,11 @@
 
 <!-- 🔴 LIVE: auto-updated hourly by GitHub Actions (Mumbai time + real weather) -->
 <!-- START:LIVE -->
-> 🌆 **Good evening from Mumbai** &nbsp;·&nbsp; 🌙 28°C, clear skies &nbsp;·&nbsp; 🕐 08:15 PM IST
+> ☀️ **Good morning from Mumbai** &nbsp;·&nbsp; 🌙 23°C, clear skies &nbsp;·&nbsp; 🕐 05:01 AM IST
 <!-- END:LIVE -->
 
 <!-- START:COUNTERS -->
-`⏳ 1,425 days shipping` &nbsp; `☕ 2,850 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
+`⏳ 1,426 days shipping` &nbsp; `☕ 2,852 cups of chai` &nbsp; `📍 Mumbai, IN` &nbsp; `🚀 always building`
 <!-- END:COUNTERS -->
 
 </div>
@@ -218,7 +218,7 @@ class AdarshDubey(AIDeveloper, FullStackEngineer):
 <div align="center">
 
 <!-- START:AI_THOUGHT -->
-> *"Every hallucination is a missing evaluation."*
+> *"Design for the model's confidence, not just its answer."*
 >
 > <sub>💡 curated · refreshes daily</sub>
 <!-- END:AI_THOUGHT -->
